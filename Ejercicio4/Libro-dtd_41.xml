@@ -7,4 +7,4 @@
 
 <!--José Jiménez Romero-->
 
-<!--En el dtd esta declarado el atributo autor como NMTOKEN y tendría que declararse como CDATA-->
+<!--En el dtd esta declarado el atributo autor como NMTOKEN y tendría que declararse como CDATA ya que NMTOKEN no admite espacios-->
